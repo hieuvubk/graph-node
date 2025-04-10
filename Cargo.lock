@@ -1852,7 +1852,7 @@ dependencies = [
  "lazy_static",
  "lru_time_cache",
  "maplit",
- "num-bigint 0.2.6",
+ "num-bigint 0.4.6",
  "num-integer",
  "num-traits",
  "object_store",
@@ -3349,7 +3349,6 @@ dependencies = [
  "autocfg",
  "num-integer",
  "num-traits",
- "serde",
 ]
 
 [[package]]
@@ -3360,6 +3359,7 @@ checksum = "a5e44f723f1133c9deac646763579fdb3ac745e418f2a7af9cd0c431da1f20b9"
 dependencies = [
  "num-integer",
  "num-traits",
+ "serde",
 ]
 
 [[package]]
